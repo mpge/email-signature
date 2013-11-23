@@ -7,7 +7,7 @@ License: You are welcome to use this email signature assuming the following...
 
 * You change/amend the name (full name)
 * You change/amend the projects
-* You change/amend every link within the signature (format: <a href="link">link content</a> <b>*</b>)
+* You change/amend every link within the signature (format: <a  href="link">link content</a> <b>*</b>)
 
 <p>*: This is ridiculous I have to define this, but to be sure! :)</p>
 
