@@ -3,7 +3,9 @@ My Email Signature
 
 Seriously! It's just an email signature!
 
-###License: You are welcome to use this email signature assuming the following...
+###License:
+
+<p>You are welcome to use this email signature assuming the following...</p>
 ```html
 You change/amend the name (full name)
 You change/amend the projects
