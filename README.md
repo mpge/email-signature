@@ -5,10 +5,10 @@ Seriously! It's just an email signature!
 
 License: You are welcome to use this email signature assuming the following...
 ```html
-* You change/amend the name (full name)
-* You change/amend the projects
-* You change/amend every link within the signature (format: <a href="link">link content</a> <b>*</b>)
-
+You change/amend the name (full name)
+You change/amend the projects
+You change/amend every link within the signature (format: <a href="link">link content</a>*)
+```
 <p>*: This is ridiculous I have to define this, but to be sure! :)</p>
 
 Notes:
