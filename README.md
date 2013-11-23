@@ -19,3 +19,6 @@ You change/amend every link within the signature (format: <a href="link">link co
 
 ###TL;DR:
 You are only really allowed to use the signature formatting template (css, basic html) and not any actual content pertaining to myself.
+
+###Last Signature Image (May not be fully updated...
+![MatthewGross Email Signature](https://raw.github.com/MatthewGross/email-signature/master/signature.png)
