@@ -1,4 +1,4 @@
-MatthewGross' Email Signature
+Email Signature for MatthewGross
 ===============
 
 Seriously! It's just an email signature!
