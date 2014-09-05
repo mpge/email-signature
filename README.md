@@ -22,3 +22,5 @@ You are only really allowed to use the signature formatting template (css, basic
 
 ###Last Signature Image (may not be fully updated...)
 ![MatthewGross Email Signature](https://raw.github.com/MatthewGross/email-signature/master/signature.png)
+
+Note will be updated soon!
